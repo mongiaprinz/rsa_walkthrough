@@ -1,10 +1,10 @@
 PROBLEM 21.6 A
 
 Given:
-p = 3 
-q = 11 
-e = 7 
-m = 5
+p = 7
+q = 11
+e = 17
+m = 8
 
 Step one is done since we are given p and q, such that they are two distinct prime numbers.
 
